@@ -1,0 +1,77 @@
+body {
+    font-family: "Lato", sans-serif, cursive;
+    
+}
+
+
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+h1, h2 {
+    font-family: "Dancing Script", cursive;
+}
+
+h2 {
+    color: #0c0c0c;
+}
+
+header h2 {
+    color: #0f0f0f;
+}
+
+h3 {
+    font-family: "Georgia", cursive;
+}
+.site-footer {
+    margin: 20rem;
+    background-image: linear-gradient(#969090, rgb(70, 69, 62));
+    padding: 20px 20px;
+}
+
+.jumbotron {
+    margin: 0;
+    background: no-repeat center center;
+    background-image: linear-gradient(to right, #d80808,#d1ce26, #39d125);
+    color: rgb(20, 20, 20);
+    padding: 130px;
+}
+
+
+
+.row-content {
+    padding: 50px;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #fcf9f9;
+    color:rgb(5, 5, 5)
+}
+
+a, a:hover {
+    text-decoration: rgb(241, 40, 40);
+  }
+
+
+  .carousel-caption {
+    background-color: rgba(182, 177, 177, 0.5);
+    
+}
+
+.carousel {
+    border: solid #5637DD;
+}
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
